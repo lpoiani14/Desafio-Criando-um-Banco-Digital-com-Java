@@ -11,10 +11,12 @@ Considerando nosso conhecimento no domínio bancário, iremos abstrair uma solu�
 
 ## Alterações no código
  - Inclusão do tipo de conta (Corrente ou poupança)
- - Alteração do método ImprimirExtrato para ImprimirSaldo
+ - Alteração do método ImprimirExtrato para ImprimirSaldo	
+ - Separadas as classes em packages diferentes
+ - Contas criadas colocadas em uma lista dentro do Banco
+ - Adicionados mais dados para cadastrar um novo cliente (CPF)
+ - Transferencia por Chave PIX
  - TO DO
-	- Colocar as contas criadas em uma árvore dentro do Banco
-	- Adicionar mais dados para cadastrar um novo cliente (CPF / Telefone)
 	- Criar classe para fazer uma nova conta ?
 	- TBD
 
